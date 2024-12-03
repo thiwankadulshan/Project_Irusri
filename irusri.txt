@@ -1,0 +1,8 @@
+email = irusri@gmail.com
+password = irusri
+
+* used node vertion is v22.11.0
+* react vite project use "npm run dev" to start the project
+* run "npm i" inside the project usig terminal
+
+* to view cart wich is in the login user account go to the top left corner whare is user logo situated,then click it
