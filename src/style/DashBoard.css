@@ -1,0 +1,30 @@
+.dashboard-main-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.dashboard-card {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.dashpoard-search {
+    padding-top: 10px;
+}
+.dashboard-input {
+    padding-left: 20px;
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+}
+.dashbord-btn {
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
